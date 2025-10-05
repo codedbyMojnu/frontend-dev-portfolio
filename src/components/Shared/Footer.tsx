@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://www.linkedin.com/in/codedByMojnu/"
+                href="https://www.linkedin.com/in/mojnu0/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-200 hover:text-white transition-colors"
@@ -49,7 +49,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://www.facebook.com/codedByMojnu"
+                href="https://www.facebook.com/mojnu0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-200 hover:text-white transition-colors"
