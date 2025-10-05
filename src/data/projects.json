@@ -1,43 +1,27 @@
 [
   {
     "name": "Wisdom Compass",
-    "img": "https://i.ibb.co/0X1LvzX/wisdom-compass.png",
+    "img": "/images/projects/wisdom-practice.png",
     "description1": "Personal Wisdom Practice App with authentication and analytics dashboard",
     "description2": "Built with React 19, Next.js, Tailwind CSS v4, Redux Toolkit, and React Query",
-    "live": "https://wisdom-compass-demo.com",
-    "client": "https://github.com/coderMojnu/wisdom-compass"
+    "live": "https://wisdom-compass.vercel.app",
+    "client": "https://github.com/codedbyMojnu/wisdom-compass"
   },
   {
     "name": "Mojnu6",
-    "img": "https://i.ibb.co/0X1LvzX/mojnu6.png",
+    "img": "/images/projects/mojnu6.png",
     "description1": "Frontend Interview Preparation Platform with gamification features",
     "description2": "Features include quizzes, streak rewards, leaderboard, and real-time chat",
-    "live": "https://mojnu6-demo.com",
-    "client": "https://github.com/coderMojnu/mojnu6-client",
-    "server": "https://github.com/coderMojnu/mojnu6-server"
+    "live": "https://mojnu6.vercel.app",
+    "client": "https://github.com/codedByMojnu/mojnu6",
+    "server": "https://github.com/codedByMojnu/mojnu6-server"
   },
   {
     "name": "React JS Bangla Tutorial",
-    "img": "https://i.ibb.co/0X1LvzX/react-bangla.png",
+    "img": "/images/projects/react-bangla.png",
     "description1": "Open-source React documentation in Bengali for Bangladeshi developers",
     "description2": "Comprehensive tutorials covering React fundamentals to advanced concepts",
-    "live": "https://reactjs-bangla-tutorial.com",
-    "client": "https://github.com/coderMojnu/react-js-bangla-tutorial"
-  },
-  {
-    "name": "Enterprise Dashboard",
-    "img": "https://i.ibb.co/0X1LvzX/dashboard.png",
-    "description1": "React-based dashboards for project management and data visualization",
-    "description2": "Built with reusable UI components using Tailwind CSS and Material UI",
-    "live": "https://enterprise-dashboard-demo.com",
-    "client": "https://github.com/coderMojnu/enterprise-dashboard"
-  },
-  {
-    "name": "Performance Optimized E-commerce",
-    "img": "https://i.ibb.co/0X1LvzX/ecommerce.png",
-    "description1": "E-commerce platform with advanced performance optimizations",
-    "description2": "Features include code splitting, lazy loading, and bundle analysis",
-    "live": "https://performance-ecommerce-demo.com",
-    "client": "https://github.com/coderMojnu/performance-ecommerce"
+    "live": "https://react-bangla.vercel.app",
+    "client": "https://github.com/codedByMojnu/react--bangla-tutorial"
   }
 ]

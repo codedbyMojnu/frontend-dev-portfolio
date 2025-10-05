@@ -83,7 +83,7 @@ const About = () => {
 
             <div className="mt-8 flex space-x-4">
               <a
-                href="https://www.linkedin.com/in/codermojnu/"
+                href="https://www.linkedin.com/in/mojnu0/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-600 hover:text-purple-800 transition-colors"
@@ -98,7 +98,7 @@ const About = () => {
                 </svg>
               </a>
               <a
-                href="https://github.com/coderMojnu"
+                href="https://github.com/codedByMojnu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-600 hover:text-purple-800 transition-colors"
@@ -117,7 +117,7 @@ const About = () => {
                 </svg>
               </a>
               <a
-                href="https://www.facebook.com/coderMojnu"
+                href="https://www.facebook.com/mojnu0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-600 hover:text-purple-800 transition-colors"

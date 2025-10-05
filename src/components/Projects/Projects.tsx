@@ -29,7 +29,7 @@ const Projects = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com/coderMojnu"
+            href="https://github.com/codedByMojnu"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-full transition-colors duration-300"
