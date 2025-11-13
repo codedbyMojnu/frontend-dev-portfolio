@@ -145,7 +145,7 @@ const Navbar = () => {
                 Contact
               </Link>
               <a
-                href="https://drive.google.com/file/d/1eQK1b2FL0uVJ_2298l9A1PCJsKnBswyr/view?usp=sharing"
+                href="https://drive.google.com/file/d/1sOQtmWNaOWc8eg7CnC5aD0ObfMb23skv/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-purple-200 transition-colors font-medium"
